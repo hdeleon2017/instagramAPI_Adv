@@ -1,0 +1,15 @@
+body {
+    background-image: url("http://images.indiatvnews.com/businessindia/Flickr-pictures8653.jpg");
+} 
+h1 {
+    text-align: center;
+    font-size: 50px ;
+    font-family: "Comic Sans MS";
+    
+}
+#animated-gif-container {
+    width:200px;
+    height: 2000px;
+    
+    background: #e0ffc7 url(http://rs226.pbsrc.com/albums/dd292/corin_ncr/Uploaded%204%20blog/Gif/music.gif~c200);
+}
